@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=CARTOON_SD&format=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD  [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=DISNEYXD_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=TOONCAST_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agCjY8n.png" group-title="Infantil", Boomerang [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=BOOMERANG_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Entretenimiento", Animal Planet [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=ANIMALPLANET_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Entretenimiento", Discovery Channel [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=DISCOVERY_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Entretenimiento", Discovery Turbo [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=DTURBO_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Entretenimiento", Discovery Sciences [HD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=DSCIENCES_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Entretenimiento", History 2 [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=H2_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Entretenimiento", NATGEO [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=NATGEO_SD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBOPremium", HBO [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=HBO_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="HBOPremium", HBO2 [HD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=HBO2_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBOPremium", HBO XTREME [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=HBOXTREME_SD&format=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium", Fox Premium Action [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=FOXACTION_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="SeriesPeliculas", Fox Life [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=FOXLIFE_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="SeriesPeliculas", Warner TV [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=WARNER_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="SeriesPeliculas", Universal TV [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=UNIVERSAL_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="SeriesPeliculas", Sony [HD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=SONY_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="SeriesPeliculas", TNT [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=TNT_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="SeriesPeliculas", TNT Series [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=TNTSERIES_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="SeriesPeliculas", Space [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=SPACE_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="SeriesPeliculas", Studio Universal [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=STUDIOUNIVERSAL_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOWSdVk.jpg" group-title="SeriesPeliculas", Cinecanal [SD]
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=CINECANAL_SD&format=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | South Park
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=SOUTHPARK_247&format=.m3u8
+
+
+
